@@ -10,3 +10,23 @@
 .container{
     margin-bottom: 80px;
 }
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat2{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 15px; 
+}
+.cat3{
+
+    background-color:blue ;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.catagories h1{
+  color: aliceblue;
+
+}
